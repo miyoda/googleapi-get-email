@@ -1,0 +1,39 @@
+{
+  "name": "googleapi-get-email",
+  "version": "1.0.1",
+  "description": "Get email from google API with access_token",
+  "main": "index.js",
+  "scripts": {
+    "start": "node googleapi-get-email.js",
+    "debug": "node-debug googleapi-get-email.js",
+    "dev": "nodemon googleapi-get-email.js",
+    "test": "echo \"Warn: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyoda/googleapi-get-email.git"
+  },
+  "keywords": [
+    "express",
+    "microservice",
+    "mongo",
+    "mongoose",
+    "auth",
+    "login",
+    "social",
+    "local",
+    "passport"
+  ],
+  "author": "=",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miyoda/googleapi-get-email/issues"
+  },
+  "homepage": "https://github.com/miyoda/googleapi-get-email#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
