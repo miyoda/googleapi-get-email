@@ -1,6 +1,6 @@
 {
   "name": "googleapi-get-email",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get email from google API with access_token",
   "main": "index.js",
   "scripts": {
